@@ -3,12 +3,11 @@
 
 ### Spotkanie 1
 - Materiały:
-  - [Notebook](https://colab.research.google.com/drive/1A5QiFxXWcde60p6ahggQV3x7m1RTFoNN?usp=sharing).
+  - [Notebook](https://colab.research.google.com/drive/1A5QiFxXWcde60p6ahggQV3x7m1RTFoNN?usp=sharing)
   - [Prezentacja](static/presentation_1.pdf)
 - Główne tematy:
   - podstawy sieci neuronowych
   - biblioteka PyTorch
-
 ### Spotkanie 2
 - Materiały dostępne [tutaj](https://docs.google.com/document/d/1KtTaog1_CSFUdx1dvZ7neq-C8LKWp_aUlPymLb0T7sI/edit?usp=sharing).
 - Główne tematy:
@@ -21,7 +20,6 @@
 - Główne tematy:
   - Trening i inferencja z wykorzystaniem pretrenowanych modeli
   - Praca na zewnętrznych serwerach
-  - 
 ### Spotkanie 4
 - Materiały:
   - [Repo Github](https://github.com/rafaltobiasz/ml-workflow-workshop)
